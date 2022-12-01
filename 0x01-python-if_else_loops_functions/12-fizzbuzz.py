@@ -2,6 +2,7 @@
 # Author - Victor Munala
 """FizzBuzz exercise for numbers between 0 and 100"""
 
+
 def fizzbuzz():
     for number in range(1, 101):
         if number % 3 == 0 and number % 5 == 0:
