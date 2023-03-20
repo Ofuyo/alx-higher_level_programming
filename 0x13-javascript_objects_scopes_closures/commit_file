@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m 'javascript objects, scopes and closures'
+git push
