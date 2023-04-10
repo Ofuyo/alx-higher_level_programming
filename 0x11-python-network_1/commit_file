@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m 'python netweorks 1, all tasks'
+git push
